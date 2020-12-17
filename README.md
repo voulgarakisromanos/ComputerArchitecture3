@@ -51,3 +51,33 @@ Leakage είναι η κατανάλωση ενέργειας που οφείλ�
 Ε<sub>A9</sub>&nbsp;&nbsp;&nbsp; = P<sub>dyn_A9</sub> &#8901;40&#8901;Δt + P<sub>leak_A9</sub> &#8901;40&#8901;Δt &nbsp;&nbsp;&nbsp;= 7.32&#8901;Δt
 
 Παρατηρούμε μία πολύ μεγάλη διαφορά η οποία οφείλεται στο γεγονός ότι το P<sub>leak_Xeon</sub> συνεχίζει να υπάρχει ακόμα και μετά το πέρας εκτέλεσης της εφαρμογής, αφού θεωρούμε δεδομένο από την εκφώνηση πως δεν διακόπτεται η λειτουργία του συστήματος μετά την ολοκλήρωση εκτέλεσης. Συμπεραίνουμε, λοιπόν, πως ο Xeon δεν μπορεί να είναι περισσότερο energy-efficient από τον ARM A9, παρά την διαφορά στην απόδοση.
+![][ICS_PP]
+![][DCS_PP]
+![][CLS_PP]
+![][L2S_PP]
+![][DCA_PP]
+![][ICA_PP]
+![][L2A_PP]
+![][ICS_TP]
+![][DCS_TP]
+![][CLS_TP]
+![][L2S_TP]
+![][DCA_TP]
+![][ICA_TP]
+![][L2A_TP]
+
+
+[ICS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/ICS.jpg
+[DCS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/DCS.jpg
+[CLS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/CLS.jpg
+[L2S_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/L2CS.jpg
+[DCA_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/DCA.jpg
+[ICA_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/ICA.jpg
+[L2A_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/L2CA.jpg
+[ICS_TP]:https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/ICS.jpg
+[DCS_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/DCS.jpg
+[CLS_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/CLS.jpg
+[L2S_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/L2CS.jpg
+[DCA_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/DCA.jpg
+[ICA_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/ICA.jpg
+[L2A_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/L2CA.jpg
