@@ -1,6 +1,6 @@
 # ComputerArchitecture3
 
-# Αρχιτεκτονική Υπολογιστών Εργασία 2
+# Αρχιτεκτονική Υπολογιστών Εργασία 3
 
 # Βουλγαράκης Ρωμανός | Μουστάκας Βασίλειος-Παναγιώτης
 # 9383 | 9424
@@ -92,7 +92,8 @@ Peak Power             |  Total Power
 :-------------------------:|:-------------------------:
 ![][L2A_PP] |  ![][L2A_TP]
 
-
+# Βιβλιογραφία
+https://www.samxi.org/papers/xi_hpca2015.pdf
 
 [ICS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/ICS.jpg
 [DCS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/DCS.jpg
