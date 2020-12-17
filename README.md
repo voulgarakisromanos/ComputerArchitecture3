@@ -105,7 +105,7 @@ Peak Power             |  Total Power
 
 Παραθέτουμε για σύγκριση και την μεταβολή του CPI για το sjeng, καθώς υπάρχει αναλογική σχέση ανάμεσα σε αυτό και τον χρόνο εκτέλεσης.
 
-**CPU<sub>time</sub> = InstructionsNumber&#8901;CPI&#8901;ClockCycleTime**
+*CPU<sub>time</sub> = InstructionsNumber&#8901;CPI&#8901;ClockCycleTime*
 
 Παρατηρώντας τα παραπάνω διαγράμματα με σκοπό την επίτευξη του ελάχιστου EDP επιλέγουμε τα ακόλουθα:
 | Μέγεθος I-Cache | Μέγεθος D-Cache | Μέγεθος L2 | Μέγεθος Cache Line |  I-Cache Assoc | D-Cache Assoc |    L2 Assoc    |
