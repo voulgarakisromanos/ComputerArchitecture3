@@ -130,6 +130,7 @@ CPU<sub>time</sub> = InstructionsNumber&#8901;CPI&#8901;ClockCycleTime
 
 # Βιβλιογραφία
 https://www.samxi.org/papers/xi_hpca2015.pdf
+https://en.wikipedia.org/wiki/Processor_power_dissipation
 
 [ICS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/ICS.jpg
 [DCS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/DCS.jpg
