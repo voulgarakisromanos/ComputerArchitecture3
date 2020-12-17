@@ -106,7 +106,7 @@ CPU<sub>time</sub> = InstructionsNumber&#8901;CPI&#8901;ClockCycleTime
 Παρατηρώντας τα παραπάνω διαγράμματα με σκοπό την επίτευξη του ελάχιστου EDP επιλέγουμε τα ακόλουθα:
 | Μέγεθος I-Cache | Μέγεθος D-Cache | Μέγεθος L2 | Μέγεθος Cache Line |  I-Cache Assoc | D-Cache Assoc |    L2 Assoc    |
 |:---------------:|:---------------:|:----------:|:------------------:|:--------------:|:-------------:|:--------------:|
-|      16 Kb      |      16 Kb      |   128 Kb   |        16 B        | Dirrect-mapped |    Two-way    | Dirrect-mapped |
+|      16 Kb      |      16 Kb      |   128 Kb   |        16 B        | Direct-mapped |    Two-way    | Direct-mapped |
 
 και παίρνουμε τελικά τα ακόλουθα αποτελέσματα:
 | Χρόνος εκτέλεσης |    CPI   | Peak Power | Total Power |            EDP             |
