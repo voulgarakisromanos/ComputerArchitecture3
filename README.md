@@ -93,6 +93,8 @@ Peak Power             |  Total Power
 ![][L2A_PP] |  ![][L2A_TP]
 
 
+### Energy-Delay Product
+![](https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/Energy-Delay_Product.jpg)
 
 ## Πηγές πιθανών σφαλμάτων
 
@@ -106,17 +108,17 @@ Peak Power             |  Total Power
 # Βιβλιογραφία
 https://www.samxi.org/papers/xi_hpca2015.pdf
 
-[ICS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/ICS.jpg
-[DCS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/DCS.jpg
-[CLS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/CLS.jpg
-[L2S_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/L2CS.jpg
-[DCA_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/DCA.jpg
-[ICA_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/ICA.jpg
-[L2A_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/peak_power/L2CA.jpg
-[ICS_TP]:https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/ICS.jpg
-[DCS_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/DCS.jpg
-[CLS_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/CLS.jpg
-[L2S_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/L2CS.jpg
-[DCA_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/DCA.jpg
-[ICA_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/ICA.jpg
-[L2A_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/total_power/L2CA.jpg
+[ICS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/ICS.jpg
+[DCS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/DCS.jpg
+[CLS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/CLS.jpg
+[L2S_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/L2CS.jpg
+[DCA_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/DCA.jpg
+[ICA_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/ICA.jpg
+[L2A_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/L2CA.jpg
+[ICS_TP]:https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/ICS.jpg
+[DCS_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/DCS.jpg
+[CLS_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/CLS.jpg
+[L2S_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/L2CS.jpg
+[DCA_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/DCA.jpg
+[ICA_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/ICA.jpg
+[L2A_TP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/total_power/L2CA.jpg
