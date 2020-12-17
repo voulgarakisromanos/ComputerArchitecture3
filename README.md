@@ -94,7 +94,7 @@ Peak Power             |  Total Power
 
 
 ### Energy-Delay Product
-![](https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/Energy-Delay_Product.jpg)
+![](https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/EDP.jpg)
 ![](https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/Sjeng_CPI.jpg)
 
 ## Πηγές πιθανών σφαλμάτων
