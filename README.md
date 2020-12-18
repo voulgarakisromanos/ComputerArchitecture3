@@ -2,7 +2,7 @@
 # Αρχιτεκτονική Υπολογιστών Εργασία 3
 
 ## Βουλγαράκης Ρωμανός | Μουστάκας Βασίλειος-Παναγιώτης
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9383 | 9424
+## 9383 | 9424
 
 
 
