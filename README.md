@@ -130,8 +130,11 @@ Peak Power             |  Total Power
 
 # Βιβλιογραφία
 https://www.samxi.org/papers/xi_hpca2015.pdf
-https://ieeexplore.ieee.org/abstract/document/7273512/?casa_token=MfJC_NVie1UAAAAA:NSSE5lJgZ3SH03PZ6rV-oDk_asMAPhaLgZN_nVbCDaaH0TsZoXWAwMgZfjTrct1O6yGJE-8Gyg
+
+https://ieeexplore.ieee.org/abstract/document/7273512
+
 https://www.hpl.hp.com/research/mcpat/McPATAlpha_TechRep.pdf
+
 https://en.wikipedia.org/wiki/Processor_power_dissipation
 
 [ICS_PP]: https://github.com/voulgarakisromanos/ComputerArchitecture3/blob/main/Plots/peak_power/ICS.jpg
